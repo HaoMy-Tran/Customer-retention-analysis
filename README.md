@@ -1,6 +1,6 @@
-### Customer Analysis – How X Can Leverage "Money Cashback" to Increase Customer Retention for Long-Term Growth?
+# Customer Analysis – How X Can Leverage "Money Cashback" to Increase Customer Retention for Long-Term Growth?
 
-### Project Overview
+## Project Overview
 
 Two years ago, I completed a project called 'Case-study-1' for a digital wallet (referred to as "X"), where I focused on analyzing customer retention and providing key insights. During this initial project, I achieved the following:
 
@@ -22,16 +22,15 @@ With over 1.5 years of experience working in the insights area, I revisited the 
 
 This updated project incorporates lessons learned from my previous work and experience, offering a more scalable, insightful, and actionable solution for the marketing team.
 
-#### What I Learned Through This Project
+## What I Learned Through This 2025 Project
 
-- A small indicator or finding can tell an entirely different story when placed in a different context.
 - Data analysis isn't just about building "fancy" models. The choice of model depends on how familiar you are with its application and interpretation, as well as the responsibility you have for the findings and recommendations you make.
+- A small indicator or finding can tell an entirely different story when placed in a different context. Telling a consistent data story is like assembling a puzzle. Each piece has its own significance, and it's important to understand it deeply before placing it in the right spot within the bigger picture.
+- Learning from other projects can significantly reduce the amount of time spent on solving problems. While it's valuable to solve challenges independently, sometimes it's beneficial to learn from others' experiences. The solution I come up with might not be wrong, but it may not be the most optimal. Referring to other reports and learning from them can help pave the way to achieving excellent results
 
----
+## Project Reading Instructions:
 
-### Project Reading Instructions:
-
-#### Power BI File (.pbix)
+### Power BI File (.pbix)
 
 - **'Dashboard'**: Includes all the key indicators that the marketing team needs for their purposes.
 - **'Cohort Analysis (Newly Added)'**: Provides a broader view of customer retention and opens the door for further exploration of other aspects of the data.
@@ -41,11 +40,11 @@ This updated project incorporates lessons learned from my previous work and expe
 - **'Spending Frequency Analysis'**: Similar to the 'Spending Analysis,' this focuses on transaction frequency to understand its role in customer retention.
 - **'CVS Spending Share'**: After identifying the potential to reduce CVS-related costs, this analysis examines CVS spending trends over time and determines which customer segments should have their cashback rates adjusted.
 
-#### PowerPoint (ppix)
+### PowerPoint (ppix)
 
 - Tells the story throughout this analysis, outlining the context, recommended actions, and the achievements of this project.
 
-#### Excel (xlsx)
+### Excel (xlsx)
 
 - Includes the requirements and raw data.
 
