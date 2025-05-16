@@ -47,5 +47,11 @@ Two years ago, I completed a project called 'Case-study-1' for a digital wallet 
 - Tells the story throughout this analysis, outlining the context, recommended actions, and the achievements of this project.
 <br><i>Là tập hợp câu chuyện xuyên suốt phân tích này, phác thảo bối cảnh, các đề xuất những bước đi tiếp theo và những gì mà dự án đã đạt được.</i>
 
+### SQL approach (/sql)
 
-After all, my project may have several limitations that I may not have identified. Therefore, your recommendations for my project are greatly appreciated! Feel free to submit a pull request or contact me at myhao14159@gmail.com for further discussions and feedback.
+- Answers the requirements using SQL by BigQuery
+<br><i> Trả lời các yêu cầu sử dụng SQL thông qua BigQuery</i>
+
+
+After all, my project may have several limitations that I may not have identified. Therefore, your recommendations for my project are greatly appreciated! Feel free to submit a pull request or contact me at myhao14159@gmail.com for further discussions and feedback. <br>
+
